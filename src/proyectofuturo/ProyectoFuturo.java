@@ -7,7 +7,7 @@ package proyectofuturo;
 
 /**
  *
- * @author Nostr
+ * @author JuanMa Vázquez
  */
 public class ProyectoFuturo {
 
